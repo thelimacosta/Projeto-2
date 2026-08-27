@@ -31,5 +31,5 @@
 - Pedro Correia | email: | Data de entrada: 10/08/2026
 - Rodrigo Fernandes Vasconcelos Borba | email: rfvb@cesar.school | Data de entrada: 10/08/2026
 
-_Nome completo dos membros da equipe (com e-mail da school ao lado)  adicionados em uma tabela.  
+_Nome completo dos membros da equipe (com e-mail da school ao lado)  adicionados em uma tabela. 
 Membros anteriores (se houver), com email da school, data de entrada   e saída do grupo (caso haja alteração do grupo), adicionados em uma tabela._ 
