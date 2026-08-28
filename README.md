@@ -8,6 +8,8 @@
 # Entregas
   ## Entrega 1
   - Documento de análise de competidores: (link aqui)
+
+  - Screenshots da entrega:
   ## Entrega 2
   -
   ## Entrega 3
