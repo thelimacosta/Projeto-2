@@ -7,7 +7,7 @@
   
 # Entregas
   ## Entrega 1
-  -
+  - Documento de análise de competidores: 
   ## Entrega 2
   -
   ## Entrega 3
