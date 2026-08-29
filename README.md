@@ -28,7 +28,7 @@
 - Luiz Carlos | email: | Data de entrada: 10/08/2026
 - Mariana | email: | Data de entrada: 10/08/2026
 - Matheus Enrico | email: | Data de entrada: 10/08/2026
-- Matheus Pinheiro | email: | Data de entrada: 10/08/2026
+- Matheus Costa | email: mplc@cesar.school | Data de entrada: 10/08/2026
 - Olívia Nóbrega | email: | Data de entrada: 10/08/2026
 - Pedro Correia | email: | Data de entrada: 10/08/2026
 - Rodrigo Fernandes Vasconcelos Borba | email: rfvb@cesar.school | Data de entrada: 10/08/2026
