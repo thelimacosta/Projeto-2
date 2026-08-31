@@ -1,30 +1,52 @@
-# projeto FDS - Grupo 8
+# projeto.tasks
 
-- **Descrição:**
-Gerenciamento de tarefas desenvolvido em equipe, com planejamento organizado no Jira, Benchmarking no Figma e implementação com Git/Github.
+## Nome do projeto
 
-- **Tecnologias usadas:**
-  - Python
-  - Figma
-  - Jira
-  - Git / GitHub
+**projeto.tasks** — Sistema de gerenciamento de tarefas.
 
-# Entregas
+## Descrição do projeto
 
-## Entrega 1
+O **projeto.tasks** é um sistema de gerenciamento de tarefas desenvolvido em equipe, com planejamento organizado no Jira, design de interface prototipado no Figma e implementação em Python.
+
+## Tecnologias utilizadas
+
+- Python
+- Figma
+- Jira
+- Git / GitHub
+
+## Entregas
+
+### Entrega 1
+
+**Descrição:** [Descreva aqui o que foi desenvolvido na Entrega 01.]
+
+**Artefatos / screenshots:**
 - Documento de análise de competidores: (link aqui)
-- Screenshots da entrega:
+- Screenshots da entrega: (link aqui)
 
-## Entrega 2
--
+### Entrega 2
 
-## Entrega 3
--
+**Descrição:** [Descreva aqui o que foi desenvolvido na Entrega 02.]
 
-## Entrega 4
--
+**Artefatos / screenshots:**
+- (link aqui)
 
-# Membros
+### Entrega 3
+
+**Descrição:** [Descreva aqui o que foi desenvolvido na Entrega 03.]
+
+**Artefatos / screenshots:**
+- (link aqui)
+
+### Entrega 4
+
+**Descrição:** [Descreva aqui o que foi desenvolvido na Entrega 04.]
+
+**Artefatos / screenshots:**
+- (link aqui)
+
+## Equipe
 
 | Nome completo | E-mail School | Data de entrada |
 |---|---|---|
@@ -47,8 +69,6 @@ Gerenciamento de tarefas desenvolvido em equipe, com planejamento organizado no 
 
 Não houve membros anteriores.
 
-# Repositório
+## Repositório
 
-Código-fonte do projeto:
-
-https://github.com/thelimacosta/Projeto-2
+Código-fonte do projeto: [github.com/jetd-ernesto/projeto.tasks](https://github.com/jetd-ernesto/projeto.tasks)
