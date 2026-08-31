@@ -91,7 +91,7 @@ tarefaService.ts
 
 ### Entrega 01
 
-**Descrição:** [Descreva aqui o que foi desenvolvido na Entrega 01.]
+**Descrição:** Reunimos diversas empresas que possivelmente atenderiam nossos requisitos B2B, filtramos entre as dispensáveis e as úteis e realizamos um benchmark mais aprofundado sobre as escolhidas. Ainda descrevemos suas características e pontos fortes/fracos, e por fim, construímos uma tabela com as considerações finais.
 
 **Artefatos / screenshots:**
 - [Link para o artefato da Entrega 01]
