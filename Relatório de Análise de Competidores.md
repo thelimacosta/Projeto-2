@@ -2,7 +2,9 @@
 (propósito do documento, escopo, projeto sendo desenvolvido, produtos analisados)
 
 2. Produtos analisados
+
 2.1 Produto A: Portal do Centro de Inovação CESAR
+
 2.1.1 Visão geral
 É uma plataforma corporativa e institucional voltada para a exibição de serviços de tecnologia, pesquisa & desenvolvimento (P&D), programas de aceleração/ventures e ofertas educacionais corporativas. Ela atua como a principal vitrine digital e ponto de captação de clientes para grandes empresas e startups que buscam inovação aberta.
 Propósito: Conectar o mercado aos serviços de transformação digital do centro, servindo de ponte entre demandas corporativas e inteligência tecnológica, além de centralizar publicações de conhecimento (artigos, relatórios) e oportunidades de carreira.
@@ -156,6 +158,16 @@ Além do design bem feito e coeso, a plataforma distribui diversos meios de apoi
 Fragmentação estadual, tendo diferentes sites para cada estado, pode ser um ponto de confusão. Alta demanda em diferentes temporadas do ano.
 
 3. Benchmark
-(criar tabela comparativa dos produtos)
+   
+| Critério / Recurso | CESAR | DigitalOcean | Sophos | Ciandt | Sankhya | Sebrae | Tivit |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Acesso Self-Service (Criação de Conta Rápida)** | ✗ | ✔︎ | ✗ | ✗ | ✗ | ✔︎ | ✗ |
+| **Exibe Preços / Valores Explícitos no Site** | ✗ | ✔︎ | ✗ | ✗ | ✗ | ✔︎ | ✗ |
+| **Oferece Serviços de Educação / Cursos** | ✔︎ | ✗ | ✗ | ✗ | ✗ | ✔︎ | ✗ |
+| **Desenvolvimento de Projetos Sob Medida (P&D)** | ✔︎ | ✗ | ✗ | ✔︎ | ✗ | ✗ | ✔︎ |
+| **Atendimento via Canais Diretos (Chat / WhatsApp / IA)** | ✗ | ✗ | ✗ | ✗ | ✔︎ | ✔︎ | ✗ |
+| **Foco em PMEs, MEIs e Pequenos Negócios** | ✗ | ✔︎ | ✗ | ✗ | ✗ | ✔︎ | ✗ |
+| **Design / UI Minimalista e Moderno** | ✔︎ | ✔︎ | ✗ | ✔︎ | ✗ | ✗ | ✗ |
+| **Interface Otimizada para Dispositivos Móveis** | ✔︎ | ✔︎ | ✔︎ | ✔︎ | ✔︎ | ✔︎ | ✔︎ |
 4. Requisitos obtidos
 (listar pelo menos 4 requisitos NÃO TRIVIAIS que possam ser adicionados ao seu projeto. Podem ser coisas positivas (que você quer adicionar) ou coisas negativas que você identificou (que seu produto não pode ter)
