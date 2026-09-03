@@ -200,6 +200,11 @@ A tabela `tarefas` possui relacionamento com `usuario`, permitindo associar cada
 | [Nome do membro 1] | [email] |
 | [Nome do membro 2] | [email] |
 | [Nome do membro 3] | [email] |
+| [Nome do membro 4] | [email] |
+| [Matheus Costa] | [mplc@cesar.school] |
+| [Nome do membro 6] | [email] |
+| [Nome do membro 7] | [email] |
+
 
 ## Membros anteriores
 
